@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/aplicativoweb/static/css/main.31ac79e2.chunk.css",
+    "main.js": "/aplicativoweb/static/js/main.cfba0ade.chunk.js",
+    "main.js.map": "/aplicativoweb/static/js/main.cfba0ade.chunk.js.map",
+    "runtime-main.js": "/aplicativoweb/static/js/runtime-main.c7718490.js",
+    "runtime-main.js.map": "/aplicativoweb/static/js/runtime-main.c7718490.js.map",
+    "static/css/2.74189dbb.chunk.css": "/aplicativoweb/static/css/2.74189dbb.chunk.css",
+    "static/js/2.ef1ba781.chunk.js": "/aplicativoweb/static/js/2.ef1ba781.chunk.js",
+    "static/js/2.ef1ba781.chunk.js.map": "/aplicativoweb/static/js/2.ef1ba781.chunk.js.map",
+    "index.html": "/aplicativoweb/index.html",
+    "precache-manifest.4124d1cd8dde2318abd5a4ceefcb545f.js": "/aplicativoweb/precache-manifest.4124d1cd8dde2318abd5a4ceefcb545f.js",
+    "service-worker.js": "/aplicativoweb/service-worker.js",
+    "static/css/2.74189dbb.chunk.css.map": "/aplicativoweb/static/css/2.74189dbb.chunk.css.map",
+    "static/css/main.31ac79e2.chunk.css.map": "/aplicativoweb/static/css/main.31ac79e2.chunk.css.map",
+    "static/js/2.ef1ba781.chunk.js.LICENSE.txt": "/aplicativoweb/static/js/2.ef1ba781.chunk.js.LICENSE.txt",
+    "static/media/LogoWhite.png": "/aplicativoweb/static/media/LogoWhite.cc681753.png",
+    "static/media/Logo_color.png": "/aplicativoweb/static/media/Logo_color.20537f47.png",
+    "static/media/Login.css": "/aplicativoweb/static/media/fondo.7b2695a9.jpg",
+    "static/media/icono.png": "/aplicativoweb/static/media/icono.a23ad246.png",
+    "static/media/user.jpg": "/aplicativoweb/static/media/user.daebef92.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c7718490.js",
+    "static/css/2.74189dbb.chunk.css",
+    "static/js/2.ef1ba781.chunk.js",
+    "static/css/main.31ac79e2.chunk.css",
+    "static/js/main.cfba0ade.chunk.js"
+  ]
+}
